@@ -1,4 +1,3 @@
-idProducto,nombre,categoria,cantidad,total_ARS,creacion,actualizacion,activo
 DUL001,Medialuna,Dulces,2487,3091300,2025-09-19 08:28:59,2025-09-19 08:28:59,True
 CAF001,Latte,Cafés,1412,5261410,2025-09-19 08:28:59,2025-09-19 08:28:59,True
 SAL001,Chipá,Salados,1382,3498725,2025-09-19 08:28:59,2025-09-19 08:28:59,True

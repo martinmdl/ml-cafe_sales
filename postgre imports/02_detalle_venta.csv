@@ -1,4 +1,3 @@
-idVenta,idProducto,cantidad,precio,costo,cancelada,creacion,actualizacion,activo
 6812,CAF001,1,4200,1155.47,No,2025-09-04 19:14:06,2025-09-04 19:14:06,True
 6812,DUL004,1,5000,2250.0,No,2025-09-04 19:14:06,2025-09-04 19:14:06,True
 6812,ADI001,1,1500,174.0,No,2025-09-04 19:14:06,2025-09-04 19:14:06,True
