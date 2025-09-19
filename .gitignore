@@ -1,5 +1,6 @@
 *.xls
 *.xlsx
 *.csv
+*.ini
 
 !01_ventas.xls
